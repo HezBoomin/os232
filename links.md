@@ -13,5 +13,8 @@ AWK Commands Documentation. A website with explanations of AWK with lots of AWK 
 3. [Private Key and Public Key](https://www.tutorialspoint.com/difference-between-private-key-and-public-key)
 Explanation between the difference of private key and publoc key. A website with explanation of public key and private key with it's difference.
 
+4. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)
+Explanation of File Allocation Methods. A website with explanation of three main file allocation method with its advantages and disadvantages.
+
 <br>
 <hr>
