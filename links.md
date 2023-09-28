@@ -16,5 +16,8 @@ Explanation between the difference of private key and publoc key. A website with
 4. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)
 Explanation of File Allocation Methods. A website with explanation of three main file allocation method with its advantages and disadvantages.
 
+5. [Logical and Physical Address](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
+Explanation of logical and physical address. A website with explanation of logical and physocal address with the comparison between those two
+
 <br>
 <hr>
