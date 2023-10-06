@@ -19,5 +19,7 @@ Explanation of File Allocation Methods. A website with explanation of three main
 5. [Logical and Physical Address](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
 Explanation of logical and physical address. A website with explanation of logical and physocal address with the comparison between those two
 
+6. [Kernell Panic](https://www.redhat.com/sysadmin/linux-kernel-panic)
+Explanation of kernell panic. A website with explanation of kernell panic, why it happen, and how to troubleshoot it.
 <br>
 <hr>
