@@ -24,5 +24,9 @@ Explanation of kernell panic. A website with explanation of kernell panic, why i
 
 7. [Shared Memory](https://www.scaler.com/topics/shared-memory-linux/)<br>
 Explanation of Shared Memory in Linux.
+
+8. [Process Synchronization](https://www.tutorialspoint.com/process-synchronization-in-linux)<br>
+Explanation of process synchronization in Linux.
+
 <br>
 <hr>
