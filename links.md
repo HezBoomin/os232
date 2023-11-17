@@ -28,5 +28,8 @@ Explanation of Shared Memory in Linux.
 8. [Process Synchronization](https://www.tutorialspoint.com/process-synchronization-in-linux)<br>
 Explanation of process synchronization in Linux.
 
+9. [LFS Video Playlist](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=attqtgPxQH3oXQ67)<br>
+A Guide Video for LFS based on Linux From Scratch 12.0 Book
+
 <br>
 <hr>
