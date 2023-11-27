@@ -31,5 +31,8 @@ Explanation of process synchronization in Linux.
 9. [LFS Video Playlist](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=attqtgPxQH3oXQ67)<br>
 A Guide Video for LFS based on Linux From Scratch 12.0 Book
 
+10. [SSD vs HDD](https://byjus.com/free-ias-prep/difference-between-ssd-and-hdd/)<br>
+Explanation about the differences between SSD and HDD
+
 <br>
 <hr>
